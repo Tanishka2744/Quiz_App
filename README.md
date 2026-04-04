@@ -1,13 +1,55 @@
-# Quiz App
+# 🌟 Quiz App
 
-A modern and interactive Quiz App built using **HTML, CSS, and JavaScript**.  
-This app is perfect for testing knowledge, learning, and showcasing web development skills. It features dynamic question rendering, instant answer feedback, and a final score display.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-## Features
+**Quiz App** is an interactive web application built using **HTML, CSS, and JavaScript**, designed to provide a **fun and engaging quiz experience**.
 
-- **Dynamic Questions:** Questions and answers are loaded dynamically using JavaScript.
-- **Interactive Buttons:** Instant visual feedback for correct and incorrect answers.
-- **Score Display:** Shows the total score at the end of the quiz.
-- **Restart Feature:** Option to play again after completing the quiz.
-- **Responsive Design:** Works on mobile, tablet, and desktop devices.
-- **Modern UI:** Gradient backgrounds, card shadows, and smooth hover effects for a polished look.
+💡 This project focuses on **dynamic question handling, user interaction, and real-time feedback**, creating an interactive learning experience.
+
+---
+
+## 🌐 Live Demo
+
+[🧠 View Quiz App Live](https://quiz-app-one-umber-76.vercel.app/)
+
+---
+
+## 🌈 Tech Skills
+
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
+
+---
+
+## 💻 About Quiz App
+
+- Displays **multiple-choice questions dynamically**  
+- Tracks user answers and provides **instant feedback**  
+- Calculates and shows **final score**  
+- Designed with a **clean and user-friendly interface**  
+- Demonstrates **JavaScript logic and interactive UI behavior**  
+
+---
+
+## 🌱 Learning & Growth
+
+- 🧠 Strengthening **JavaScript logic building**  
+- 🎯 Improving **event handling and user interaction**  
+- 💻 Working with **dynamic content rendering**  
+- 🌐 Enhancing **structured and responsive UI design**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://tanishka-dev.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2744/Quiz_App)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
