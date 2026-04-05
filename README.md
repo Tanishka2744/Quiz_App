@@ -50,6 +50,7 @@ Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.
 [🐙 GitHub](https://github.com/Tanishka2712004)  
 [🐦 Twitter](https://twitter.com/@TanishkaK27124)  
 [📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
 ---
 
 Made with ❤️ using **HTML, CSS & JavaScript**
